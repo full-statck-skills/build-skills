@@ -1,7 +1,7 @@
 {
   "name": "build-skills",
   "version": "1.0.0",
-  "description": "Frontend build tool skills — Webpack, Rollup, Parcel, Rspack, Vite, Sass",
+  "description": "Frontend build tool skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -15,6 +15,6 @@
     "./skills/rollup",
     "./skills/rspack",
     "./skills/vite",
-    "./skills/webpack",
+    "./skills/webpack"
   ]
 }
