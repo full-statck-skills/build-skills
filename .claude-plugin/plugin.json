@@ -1,0 +1,20 @@
+{
+  "name": "build-skills",
+  "version": "1.0.0",
+  "description": "Frontend build tool skills — Webpack, Rollup, Parcel, Rspack, Vite, Sass",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/build-skills",
+  "repository": "https://github.com/full-statck-skills/build-skills",
+  "source": "./",
+  "skills": [
+    "./skills/dart-sass",
+    "./skills/parcel",
+    "./skills/rollup",
+    "./skills/rspack",
+    "./skills/vite",
+    "./skills/webpack",
+  ]
+}
