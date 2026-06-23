@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/build-skills",
-  "repository": "https://github.com/full-statck-skills/build-skills",
+  "homepage": "https://github.com/full-stack-skills/build-skills",
+  "repository": "https://github.com/full-stack-skills/build-skills",
   "source": "./",
   "skills": [
     "./skills/dart-sass",
